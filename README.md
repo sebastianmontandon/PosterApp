@@ -18,6 +18,10 @@ expo install react-native-screens
 
 In this case the app fill a list with all users name in API, then you can press on any name and navigate to other screeen with all posts of this user, finally you can touch in any post to switch on the last screen with Title, Body and User who made it.
 
+![Screenshots](https://github.com/sebastianmontandon/PosterApp/blob/master/screenshots/Screenshot_1.png)
+![Screenshots](https://github.com/sebastianmontandon/PosterApp/blob/master/screenshots/Screenshot_2.png)
+![Screenshots](https://github.com/sebastianmontandon/PosterApp/blob/master/screenshots/Screenshot_3.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
